@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chsanden
-- 👀 I’m interested in a lot of things, hence why this GitHub account was created
+- 👀 I’m wanting to document my learning journey by uploading my projects here to have something to look back on and see the progression
 - 🌱 I’m currently learning C++ whilst studying Computer Engineering
 - ⚡ Fun fact: I'm fluent in 52 languages, and deifintely not a habitual liar
 
