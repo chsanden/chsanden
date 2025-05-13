@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chsanden
 - 👀 I’m wanting to document my learning journey by uploading my projects here to have something to look back on and see the progression
 - 🌱 I’m currently learning C++ whilst studying Computer Engineering
-- ⚡ Fun fact: I'm fluent in 52 languages, and deifintely not a habitual liar
+- ⚡ Fun fact: I'm fluent in 52 languages, an olympic athlete in 4 different sports, and deifintely not a habitual liar
 
 <!---
 chsanden/chsanden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
